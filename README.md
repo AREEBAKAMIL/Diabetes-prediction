@@ -1,1 +1,1 @@
-# Machine-Learning-Health
+# Diabetes prediction
